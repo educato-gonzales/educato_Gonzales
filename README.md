@@ -1,2 +1,3 @@
 # educato_Gonzales
-Sistema web de evaluacion continua
+Sistema web de Administracion de Datos de Estudiante
+
